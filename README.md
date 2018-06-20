@@ -1,2 +1,0 @@
-# tallseth.github.io
-website

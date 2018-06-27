@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>   on tallseth.github.io</title>
-    <link>https://tallseth.github.io/</link>
-    <description>Recent content in    on tallseth.github.io</description>
+    <title>   on smaller infinity</title>
+    <link>https://smallerinfinity.com/</link>
+    <description>Recent content in    on smaller infinity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Jun 2018 06:57:08 -0700</lastBuildDate>
     
-	<atom:link href="https://tallseth.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://smallerinfinity.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://tallseth.github.io/posts/first-post/</link>
+      <link>https://smallerinfinity.com/posts/first-post/</link>
       <pubDate>Tue, 19 Jun 2018 07:18:24 -0700</pubDate>
       
-      <guid>https://tallseth.github.io/posts/first-post/</guid>
+      <guid>https://smallerinfinity.com/posts/first-post/</guid>
       <description>Wow. Starting this with something named &amp;ldquo;First Post&amp;rdquo; inspires my &amp;ldquo;paralysis by analysis&amp;rdquo; response in a big way. For example, I just spent thirty seconds thinking about whether to change &amp;ldquo;inspires my&amp;rdquo; above to something else.
 My name Seth McCarthy. I currently manage a software development team at BIOVIA, a brand of Dassault Systemes. For a long time I haven&amp;rsquo;t done anything technical outside of my job. It hasn&amp;rsquo;t been for lack of interest, just for lack of white-space in my schedule.</description>
     </item>

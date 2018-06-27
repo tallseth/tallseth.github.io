@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://tallseth.github.io/posts/first-post/</loc>
+    <loc>https://smallerinfinity.com/posts/first-post/</loc>
     <lastmod>2018-06-19T07:18:24-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://tallseth.github.io/</loc>
+    <loc>https://smallerinfinity.com/</loc>
     <lastmod>2018-06-19T06:57:08-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://tallseth.github.io/categories/</loc>
+    <loc>https://smallerinfinity.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tallseth.github.io/posts/</loc>
+    <loc>https://smallerinfinity.com/posts/</loc>
     <lastmod>2018-06-19T07:18:24-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tallseth.github.io/tags/</loc>
+    <loc>https://smallerinfinity.com/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

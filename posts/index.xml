@@ -6,10 +6,20 @@
     <description>Recent content in Posts on smaller infinity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Aug 2018 06:44:29 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 14 Aug 2018 09:02:14 -0700</lastBuildDate>
     
 	<atom:link href="https://smallerinfinity.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Approach to #NoEstimates</title>
+      <link>https://smallerinfinity.com/posts/my-approach-to-noestimates/</link>
+      <pubDate>Tue, 14 Aug 2018 09:02:14 -0700</pubDate>
+      
+      <guid>https://smallerinfinity.com/posts/my-approach-to-noestimates/</guid>
+      <description>For the two and a half years, I&amp;rsquo;ve been running projects with significantly less estimation ceremony. The approach has not been perfect, nor has it been entirely without estimation of any kind. For context, understand that I was working with date-driven releases.
+Backlog Setup At the beginning of each project, I met with Product Owners repeatedly, for deep dive conversations about what they wanted out of the project. My starting goal was to identify the least amount of work possible to barely satisfy the project needs.</description>
+    </item>
     
     <item>
       <title>Final Day at BIOVIA</title>

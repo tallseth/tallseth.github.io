@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://smallerinfinity.com/posts/maggie-dream-wagner-mall/</loc>
-    <lastmod>2019-02-08T06:33:04-07:00</lastmod>
+    <loc>https://smallerinfinity.com/posts/noestimates-and-story-sizing/</loc>
+    <lastmod>2018-08-16T04:28:40-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://smallerinfinity.com/posts/noestimates-and-story-sizing/</loc>
+    <loc>https://smallerinfinity.com/posts/</loc>
     <lastmod>2018-08-16T04:28:40-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -26,13 +26,6 @@
   <url>
     <loc>https://smallerinfinity.com/posts/final-day-at-biovia/</loc>
     <lastmod>2018-08-10T06:44:29-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://smallerinfinity.com/posts/sula-final-moments/</loc>
-    <lastmod>2018-07-05T08:03:23-07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -61,20 +54,13 @@
   <url>
     <loc>https://smallerinfinity.com/categories/</loc>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://smallerinfinity.com/posts/</loc>
-    <lastmod>2019-02-08T06:33:04-07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://smallerinfinity.com/tags/</loc>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

@@ -6,10 +6,19 @@
     <description>Recent content in Posts on smaller infinity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Aug 2018 04:28:40 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2020 17:54:38 -0700</lastBuildDate>
     
 	<atom:link href="https://smallerinfinity.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Leaving Management 2020</title>
+      <link>https://smallerinfinity.com/posts/leaving-management-2020/</link>
+      <pubDate>Thu, 08 Oct 2020 17:54:38 -0700</pubDate>
+      
+      <guid>https://smallerinfinity.com/posts/leaving-management-2020/</guid>
+      <description>I spent the last year and a half or so managing an engineering team at Olo. It was a ton of fun. I grew a team from 3 engineers to 8. I led projects of critical importance to the business. I advanced important changes for individuals, teams, and the whole org. I worked with an outstanding Product Manager. I had a excellent group of EM peers. My team performed great, and seemed happy with my leadership.</description>
+    </item>
     
     <item>
       <title>#NoEstimates and Story Sizing</title>

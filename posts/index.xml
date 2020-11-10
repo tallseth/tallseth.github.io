@@ -6,10 +6,19 @@
     <description>Recent content in Posts on smaller infinity</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2020 17:54:38 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 07:57:02 -0800</lastBuildDate>
     
 	<atom:link href="https://smallerinfinity.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Technical Leadership Thoughts</title>
+      <link>https://smallerinfinity.com/posts/technical-leadership-thoughts/</link>
+      <pubDate>Mon, 09 Nov 2020 07:57:02 -0800</pubDate>
+      
+      <guid>https://smallerinfinity.com/posts/technical-leadership-thoughts/</guid>
+      <description>My journey out of management has created some space for me to think about how to grow as a technical leader. There isn&amp;rsquo;t an easy recipe here. In management, there is a clear list of things for everyone to work on: organization, EQ, delegation, effective status reports, efficient meetings, wrangling backlog negotiations, etc. There are similarly obvious moves on a purely technical track: learn technology X, complete a Staff project, mentor other engineers in their technical ideas and practices, keep track of and evangelize tech debt, improve monitoring and observability, etc.</description>
+    </item>
     
     <item>
       <title>Leaving Management - 2020 Edition</title>
